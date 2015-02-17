@@ -205,7 +205,7 @@ function zerif_customize_register( $wp_customize ) {
 
 
 
-	/* facebook */
+	/* facebook    */
 
 	$wp_customize->add_setting( 'zerif_socials_facebook', array('sanitize_callback' => 'esc_url_raw','default' => '#'));
 
