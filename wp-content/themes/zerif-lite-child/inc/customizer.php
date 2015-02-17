@@ -1,7 +1,5 @@
 <?php
 
-
-
 /**
 
  * zerif Theme Customizer
