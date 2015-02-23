@@ -313,7 +313,7 @@ h6 {
 .red-btn,.green-btn,.blue-btn,.yellow-btn {
 	color: #FFF !important;
 	-webkit-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .blue-btn:hover {
 	color: #FFF;
@@ -321,11 +321,11 @@ h6 {
 }
 .red-btn:hover {
 	color: #FFF;
-	background: #cb4332;
+	background: rgba(24,3,98,0.75);
 }
 .green-btn:hover {
 	color: #FFF;
-	background: #069059;
+	background: rgba(255,155,26,0.75);
 }
 .yellow-btn:hover {
 	color: #FFF;
@@ -1356,7 +1356,7 @@ object {
  **   Section: Home                  -----
 -----------------------------------------*/
 .header {
-	background: rgba(0, 0, 0, 0.3);
+	background: rgba(255, 255, 255, 0.5);
 	min-height: 775px;
 	position: relative;
 	overflow: hidden;
@@ -1512,14 +1512,13 @@ object {
 }
 .intro-text{
 	text-align: center;
-	color: #FFF;
+	color: #404040;
 	margin-top: 25%;
 	line-height: 65px;
 	z-index: 0;
 	text-transform: uppercase;
 	font-size: 55px;
 	float:none;
-
 }
 /* Short Messages */
 .bottom-message-section {
