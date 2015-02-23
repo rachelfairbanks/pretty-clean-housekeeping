@@ -84,7 +84,7 @@
 				if( !empty($zerif_aboutus_text) ):
 
 
-					echo '<div class="col-lg-4 col-md-4 column" data-scrollreveal="enter bottom after 0s over 1s">';
+					echo '<div class="col-lg-4 col-md-4-about column">';
 
 
 						echo '<p>';

@@ -1923,6 +1923,10 @@ width: -webkit-calc(100% / 4);
 .about-us .column {
 	margin-bottom: 78px;
 }
+
+.col-md-4-about {
+	width: 66.6666%;
+}
 /*--SKILLS --*/
 .skills {
 	text-align: left;
