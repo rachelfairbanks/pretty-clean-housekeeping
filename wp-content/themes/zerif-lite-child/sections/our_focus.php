@@ -1,18 +1,8 @@
 <section class="focus" id="focus">
 
 
-<<<<<<< HEAD
-
 <div class="container">
-
-
-
-
-
 	<!-- SECTION HEADER -->
-
-
-
 	<div class="section-header">
 
 
@@ -98,6 +88,8 @@
 
 =======
 >>>>>>> e75aaed865f875ad4aef67095f0439d28439eee6
+=======
+>>>>>>> e75aaed865f875ad4aef67095f0439d28439eee6
 <div class="container">
 	<!-- SECTION HEADER -->
 	<div class="section-header">
@@ -178,8 +170,4 @@
 
 
 
-<<<<<<< HEAD
 </section>  <!-- / END FOCUS SECTION -->
-=======
-</section>  <!-- / END FOCUS SECTION -->
->>>>>>> e75aaed865f875ad4aef67095f0439d28439eee6
