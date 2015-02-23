@@ -16,7 +16,7 @@
 
 
 
-		<h2 class="dark-text"><?php _e('Cleaning Packages','zerif-lite'); ?></h2>
+		<h2 class="dark-text"><?php _e('Our Cleaning Services','zerif-lite'); ?></h2>
 
 
 
